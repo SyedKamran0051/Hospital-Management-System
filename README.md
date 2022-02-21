@@ -1,1 +1,1 @@
-# Hospital-Management-System
+# Hospital-Management-System recording patients record in an effecient manner.
